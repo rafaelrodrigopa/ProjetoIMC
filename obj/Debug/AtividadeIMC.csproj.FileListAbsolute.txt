@@ -1,0 +1,13 @@
+D:\TADS\2º Semestre\6ª PROGRAMAÇÃO VISUAL\7ª Aula - 25.09.2020\AtividadeIMC\bin\Debug\AtividadeIMC.exe.config
+D:\TADS\2º Semestre\6ª PROGRAMAÇÃO VISUAL\7ª Aula - 25.09.2020\AtividadeIMC\bin\Debug\AtividadeIMC.exe
+D:\TADS\2º Semestre\6ª PROGRAMAÇÃO VISUAL\7ª Aula - 25.09.2020\AtividadeIMC\bin\Debug\AtividadeIMC.pdb
+D:\TADS\2º Semestre\6ª PROGRAMAÇÃO VISUAL\7ª Aula - 25.09.2020\AtividadeIMC\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\TADS\2º Semestre\6ª PROGRAMAÇÃO VISUAL\7ª Aula - 25.09.2020\AtividadeIMC\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\TADS\2º Semestre\6ª PROGRAMAÇÃO VISUAL\7ª Aula - 25.09.2020\AtividadeIMC\obj\Debug\AtividadeIMC.csprojAssemblyReference.cache
+D:\TADS\2º Semestre\6ª PROGRAMAÇÃO VISUAL\7ª Aula - 25.09.2020\AtividadeIMC\obj\Debug\AtividadeIMC.FrmIMC.resources
+D:\TADS\2º Semestre\6ª PROGRAMAÇÃO VISUAL\7ª Aula - 25.09.2020\AtividadeIMC\obj\Debug\AtividadeIMC.Properties.Resources.resources
+D:\TADS\2º Semestre\6ª PROGRAMAÇÃO VISUAL\7ª Aula - 25.09.2020\AtividadeIMC\obj\Debug\AtividadeIMC.csproj.GenerateResource.cache
+D:\TADS\2º Semestre\6ª PROGRAMAÇÃO VISUAL\7ª Aula - 25.09.2020\AtividadeIMC\obj\Debug\AtividadeIMC.csproj.CoreCompileInputs.cache
+D:\TADS\2º Semestre\6ª PROGRAMAÇÃO VISUAL\7ª Aula - 25.09.2020\AtividadeIMC\obj\Debug\AtividadeIMC.csproj.CopyComplete
+D:\TADS\2º Semestre\6ª PROGRAMAÇÃO VISUAL\7ª Aula - 25.09.2020\AtividadeIMC\obj\Debug\AtividadeIMC.exe
+D:\TADS\2º Semestre\6ª PROGRAMAÇÃO VISUAL\7ª Aula - 25.09.2020\AtividadeIMC\obj\Debug\AtividadeIMC.pdb
